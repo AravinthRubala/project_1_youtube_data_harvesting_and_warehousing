@@ -112,5 +112,4 @@ YouTube video link:
 
 Linked in link: 
 https://www.linkedin.com/posts/syspro-aranvin-41909664_activity-7117568969217085441-gYCg?utm_source=share&utm_medium=member_desktop
-![image](https://github.com/AravinthRubala/project_1_youtube_data_harvesting_and_warehousing/assets/147526799/16610e23-2bb7-4b2b-979c-414b154d7d9f)
 
