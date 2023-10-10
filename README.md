@@ -8,16 +8,17 @@ YouTube data harvesting involves the systematic collection of data from this spr
 3. Jupyter notebook
 4. Python 3.11.3 or higher
 5. MySQL
-MongoDB
-Pandas
-Streamlit
-Plotly-express
-Youtube API key
-6. Required Libraries
+6. MongoDB
+7. Pandas
+8. Streamlit
+9. Plotly-express
+10. Youtube API key
+11. Required Libraries
+    
 pip install google-api-python-client, pymongo, mysql-connector-python, sqlalchemy, mysql workbench, pymysql, pymysql, pandas, numpy, plotly-express, streamlit.
 ( pip install google-api-python-client pymongo mysql-connector-python sqlalchemy pymysql pandas numpy plotly-express streamlit )
 
-7. Import Libraries
+13. Import Libraries
 Youtube API libraries
 
 from googleapiclient.discovery import build
