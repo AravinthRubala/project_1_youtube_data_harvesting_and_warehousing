@@ -9,33 +9,30 @@ Tools Installed
 3. Python 3.11.3 or higher
 4. MySQL
 5. MongoDB
-6. Pandas
-7. Streamlit
-8. Plotly-express
-9. Youtube API key
     
-11. Required Libraries    
+6. Required Libraries    
  pip install google-api-python-client, pymongo, mysql-connector-python, sqlalchemy, mysql workbench, pymysql, pymysql, 
  pandas, numpy, plotly-express, streamlit.
 
  ( pip install google-api-python-client pymongo mysql-connector-python sqlalchemy pymysql pandas numpy plotly-express 
  streamlit )
 
-13. Import Libraries 
+7. Import Libraries 
 Youtube API libraries
 
 from googleapiclient.discovery import build
 
 File handling libraries
-import json
-import re
-MongoDB
 
+import json
+
+import re
+
+MongoDB
 
 import pymongo
 
 SQL libraries
-
 
 import mysql.connector
 
@@ -47,19 +44,15 @@ import pymysql
 
 pandas, numpy
 
-
 import pandas as pd
 
 Dashboard libraries
-
 
 import streamlit as st
 
 from streamlit_option_menu import option_menu
 
-
-
-4. ETL Process
+8. ETL Process
 
 a) Extracting the data
 Extract the particular youtube channel data by using the youtube channel id, with the help of the youtube API developer console.
@@ -70,7 +63,7 @@ After the extraction process, take the required data from the extraction and tra
 c) Loading the data
 After the transformation process, the JSON format data is stored in the MongoDB database, also it has the option to migrate the data to MySQL database from the MongoDB database.
 
-6. EDA Process and Framework
+9. EDA Process and Framework
 
 EDA, or Exploratory Data Analysis, is a crucial step in the data analysis process that involves summarizing, visualizing, and understanding the main characteristics of a dataset.
 
@@ -114,4 +107,5 @@ Click on the migrate data to mysql button - Data migrate from json to mysql.
 Step 5. Click on Data Analysis Tab
 
 Select a Question from the dropdown menu and you can get the results and charts in Dataframe format.
+
 YouTube video link:
