@@ -3,16 +3,16 @@ YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
 Introduction
 YouTube data harvesting involves the systematic collection of data from this sprawling video-sharing platform. We're not just talking about videos, but also user interactions, comments, and more. This rich repository of structured (metadata, metrics) and unstructured (comments, content) data presents us with a goldmine of information waiting to be explored.
 
-1. Tools Installed
-2. Virtual Studio code
-3. Jupyter notebook
-4. Python 3.11.3 or higher
-5. MySQL
-6. MongoDB
-7. Pandas
-8. Streamlit
-9. Plotly-express
-10. Youtube API key
+Tools Installed
+1. Virtual Studio code
+2. Jupyter notebook
+3. Python 3.11.3 or higher
+4. MySQL
+5. MongoDB
+6. Pandas
+7. Streamlit
+8. Plotly-express
+9. Youtube API key
     
 11. Required Libraries    
  pip install google-api-python-client, pymongo, mysql-connector-python, sqlalchemy, mysql workbench, pymysql, pymysql, 
@@ -27,12 +27,8 @@ Youtube API libraries
 from googleapiclient.discovery import build
 
 File handling libraries
-
-
 import json
-
 import re
-
 MongoDB
 
 
