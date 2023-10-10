@@ -21,30 +21,46 @@ YouTube data harvesting involves the systematic collection of data from this spr
  ( pip install google-api-python-client pymongo mysql-connector-python sqlalchemy pymysql pandas numpy plotly-express 
  streamlit )
 
-13. Import Libraries
+13. Import Libraries 
 Youtube API libraries
 
 from googleapiclient.discovery import build
+
 File handling libraries
 
+
 import json
+
 import re
+
 MongoDB
 
+
 import pymongo
+
 SQL libraries
 
+
 import mysql.connector
+
 import sqlalchemy
+
 from sqlalchemy import create_engine
+
 import pymysql
+
 pandas, numpy
 
+
 import pandas as pd
+
 Dashboard libraries
 
+
 import streamlit as st
+
 from streamlit_option_menu import option_menu
+
 
 4. ETL Process
 a) Extracting the data
