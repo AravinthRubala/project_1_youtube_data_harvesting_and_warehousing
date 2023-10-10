@@ -4,20 +4,20 @@ Introduction
 YouTube data harvesting involves the systematic collection of data from this sprawling video-sharing platform. We're not just talking about videos, but also user interactions, comments, and more. This rich repository of structured (metadata, metrics) and unstructured (comments, content) data presents us with a goldmine of information waiting to be explored.
 
 1. Tools Installed
-Virtual Studio code
-Jupyter notebook
-Python 3.11.3 or higher
-MySQL
+2. Virtual Studio code
+3. Jupyter notebook
+4. Python 3.11.3 or higher
+5. MySQL
 MongoDB
 Pandas
 Streamlit
 Plotly-express
 Youtube API key
-3. Required Libraries
+6. Required Libraries
 pip install google-api-python-client, pymongo, mysql-connector-python, sqlalchemy, mysql workbench, pymysql, pymysql, pandas, numpy, plotly-express, streamlit.
 ( pip install google-api-python-client pymongo mysql-connector-python sqlalchemy pymysql pandas numpy plotly-express streamlit )
 
-4. Import Libraries
+7. Import Libraries
 Youtube API libraries
 
 from googleapiclient.discovery import build
