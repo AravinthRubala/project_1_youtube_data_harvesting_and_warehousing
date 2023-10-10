@@ -111,5 +111,5 @@ Select a Question from the dropdown menu and you can get the results and charts 
 YouTube video link:
 
 Linked in link: 
-https://www.linkedin.com/posts/syspro-aranvin-41909664_activity-7117568969217085441-gYCg?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/syspro-aranvin-41909664_activity-7117568969217085441-gYCgutm_source=share&utm_medium=member_desktop
 
