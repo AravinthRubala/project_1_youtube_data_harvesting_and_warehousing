@@ -1,4 +1,4 @@
-# project_1_youtube_data_harvesting_and_warehousing
+# DS_YouTube Data Harvesting and Warehouse
 YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
 Introduction
 YouTube data harvesting involves the systematic collection of data from this sprawling video-sharing platform. We're not just talking about videos, but also user interactions, comments, and more. This rich repository of structured (metadata, metrics) and unstructured (comments, content) data presents us with a goldmine of information waiting to be explored.
